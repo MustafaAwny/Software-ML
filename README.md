@@ -1,4 +1,4 @@
-# RadarTargetDetection
+# Radar
 ## Overview 
 In this project it was generated a [FMCW Waveform](https://en.wikipedia.org/wiki/Continuous-wave_radar) using a beat signal with the following properties,
 
